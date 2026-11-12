@@ -7,7 +7,7 @@
 ## 1. Title options
 
 ```
-Generate 15 YouTube titles for a video about {{topic}} for {{audience}}.
+Generate 15 YouTube titles for a video about {topic} for {audience}.
 Constraints: under 60 characters, no clickbait the video can't deliver, front-load the
 most interesting words. Use a mix of formulas: curiosity gap, "How X did Y",
 "Why X", number/list, contrarian, and outcome-based.
@@ -17,7 +17,7 @@ Then pick the top 3 and explain why each would get a high CTR.
 ## 2. Thumbnail concepts
 
 ```
-Video title: "{{title}}". Niche: {{niche}}. Channel style: {{e.g. dark, minimal, bold yellow text}}.
+Video title: "{title}". Niche: {niche}. Channel style: {e.g. dark, minimal, bold yellow text}.
 
 Give me 4 thumbnail concepts. For each describe:
 - Focal point (one main subject)
@@ -31,9 +31,9 @@ Keep it readable at mobile size. No real people's faces.
 
 ```
 Turn this thumbnail concept into a detailed image-generation prompt for a 16:9
-YouTube thumbnail: {{concept}}.
-Specify subject, composition (rule of thirds, leave space for text on the {{left/right}}),
-lighting, colour palette, style ({{photorealistic / 3D render / illustrated}}), and
+YouTube thumbnail: {concept}.
+Specify subject, composition (rule of thirds, leave space for text on the {left/right}),
+lighting, colour palette, style ({photorealistic / 3D render / illustrated}), and
 high contrast. Do NOT include text in the image; I'll add it in the editor.
 ```
 
@@ -41,8 +41,8 @@ high contrast. Do NOT include text in the image; I'll add it in the editor.
 
 ```
 Write YouTube metadata for this video.
-Title: {{title}}
-Script: {{paste script}}
+Title: {title}
+Script: {paste script}
 
 Provide:
 1. Description: first 2 lines are a compelling summary with the main keyword

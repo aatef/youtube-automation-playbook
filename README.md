@@ -4,6 +4,8 @@
 
 ![status](https://img.shields.io/badge/status-living%20document-blue) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen) [![Start for FREE](https://img.shields.io/badge/START%20FOR-%240%20%E2%80%93%20FREE-brightgreen?style=for-the-badge)](docs/resources.md)
 
+🌐 **Website version:** [aatef.github.io/youtube-automation-playbook](https://aatef.github.io/youtube-automation-playbook/), where all external links open in a new tab. On GitHub, use **Ctrl+click** to open links in a new tab.
+
 ---
 
 ## 🚀 Get Inspired
@@ -42,6 +44,8 @@
 ```
 youtube-automation-playbook/
 ├── README.md
+├── _config.yml          (GitHub Pages settings)
+├── _includes/head-custom.html  (opens external links in new tab)
 ├── docs/
 │   ├── monetization.md
 │   ├── copyright.md

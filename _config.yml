@@ -1,0 +1,22 @@
+title: YouTube Automation Playbook
+description: A practical playbook for building faceless YouTube automation channels in 2026.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+relative_links:
+  enabled: true
+  collections: false
+optional_front_matter:
+  remove_originals: true
+readme_index:
+  enabled: true
+  remove_originals: true
+titles_from_headings:
+  enabled: true
+  strip_title: false
+exclude:
+  - REPO_DESCRIPTION.md
