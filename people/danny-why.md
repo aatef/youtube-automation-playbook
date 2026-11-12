@@ -7,10 +7,10 @@
 | | |
 |---|---|
 | **Stage** | Later (once the channel is earning) |
-| **Why follow** | Opens a new door with every video. His free YouTube videos are enough for anyone to start this business. I'm always amazed by what he must be providing in his community for $39/month. |
+| **Why follow** | Opens a new door with every video. His free YouTube videos are enough for anyone to start this business. I'm always amazed by what he must be providing in his community for $39/month. I've recommended him to a few people, and all of them are now above $10k USD per month. |
 
 
-> 💬 **Why I follow Danny Why:** Opens a new door with every video. His free YouTube videos are enough for anyone to start this business. I'm always amazed by what he must be providing in his community for $39/month.
+> 💬 **Why I follow Danny Why:** Opens a new door with every video. His free YouTube videos are enough for anyone to start this business. I'm always amazed by what he must be providing in his community for $39/month. I've recommended him to a few people, and all of them are now above $10k USD per month.
 
 ---
 

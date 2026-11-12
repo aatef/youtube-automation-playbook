@@ -7,12 +7,16 @@
 ## ⭐ My choices
 
 ### 🇵🇰 Local (Pakistan): recommended paid courses
+> I recommend **only these two** local courses, because I've seen their outcomes in person.
+
 | Rank | Instructor | Why |
 |---|---|---|
-| ⭐ **1** | **[Ajju Bhai](../people/ajju-bhai.md)** | My first choice among local paid courses |
-| ⭐ **2** | **[Safeer Shah](../people/safeer-shah.md)** | YouTube Automation Mastery: AI tools, editing, thumbnails, SEO |
+| ⭐ **1** | **[Ajju Bhai](../people/ajju-bhai.md)** | My first choice. I've met many of his students in person, from penniless to $10k+/month |
+| ⭐ **2** | **[Safeer Shah](../people/safeer-shah.md)** | Niche research, with playbooks & prompts per niche. I've seen the outcome in person |
 
 ### 🌍 International: Danny Why
+> I've recommended Danny Why to a few people, and all of them are now above **$10k USD per month**.
+
 | Stage | Training | Notes |
 |---|---|---|
 | **Free** | Danny Why's YouTube tutorials (see Free courses below) | Start here: niches, setup, AI tools, first uploads. |

@@ -8,7 +8,10 @@
 |---|---|
 | **Name** | Mahar Sajid Afzal |
 | **Stage** | Now (getting started) |
-| **Why follow** | Pakistani IT expert and YouTube automation expert; covers faceless channels, growing views, the YouTube algorithm, thumbnails, and staying safe on copyright and community guidelines. |
+| **Why follow** | Doesn't sell anything and talks about the critical things: faceless channels, the YouTube algorithm, views, and staying safe on copyright and community guidelines. |
+
+
+> 💬 **Why I follow Mahar Sajid:** He doesn't sell anything, and he talks about the critical things.
 
 ---
 
