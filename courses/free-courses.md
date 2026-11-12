@@ -2,7 +2,7 @@
 
 [← Back to README](../README.md)
 
-Free courses on YouTube, as a single video or a playlist. Finish these before buying anything; see [Trainings](../README.md#trainings).
+Free courses on YouTube, as a single video or a playlist. Finish these before buying anything; see [Trainings](../docs/trainings.md).
 
 > ⚠️ The links below are **samples**. Replace `SAMPLE_ID_xx` / `SAMPLE_PLAYLIST_ID_xx` with real IDs and the titles with real course names.
 > - Video link format: `https://www.youtube.com/watch?v=VIDEO_ID`
