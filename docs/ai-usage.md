@@ -67,7 +67,14 @@ YouTube's stated position is that **AI tools are welcome** and AI-assisted chann
 - **Likeness and voice:** never generate real people (celebrities, politicians) without consent. It's a privacy and impersonation risk, not just a labelling one.
 - **AI music:** rights are still unsettled. Prefer licensed tracks or the YouTube Audio Library.
 
-## Official sources
-- YouTube Help: Disclosing use of altered or synthetic content
-- YouTube Help: Channel monetization policies → Inauthentic content
-- YouTube Blog: AI labels update (May 2026)
+---
+
+## 📌 Official YouTube sources
+
+- [Disclosing use of altered or synthetic content](https://support.google.com/youtube/answer/14328491)
+- [Channel monetization policies (incl. inauthentic & reused content)](https://support.google.com/youtube/answer/1311392)
+- [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973)
+- [Community Guidelines](https://support.google.com/youtube/answer/9288567)
+- [YouTube Creators channel](https://www.youtube.com/@YouTubeCreators)
+
+> Policies change often. Check these pages before relying on any summary in this guide.

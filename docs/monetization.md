@@ -70,7 +70,35 @@ YouTube announced on 10 Aug 2026 that **new applicants** for ad revenue need dou
 - [ ] AI disclosure set correctly on realistic synthetic content
 - [ ] Channel looks like a real publication: About section, consistent branding, playlists
 
-## Official sources
-- YouTube Help: YouTube Partner Program overview & eligibility
-- YouTube Blog: "What are qualified watch hours and Shorts views?" (Aug 2026)
-- YouTube Help: Channel monetization policies
+## 🎥 Videos to watch
+
+> ⚠️ The links below are **samples**. Replace `SAMPLE_ID_xx` / `SAMPLE_PLAYLIST_ID_xx` with real IDs and the titles with real video titles.
+
+| # | Topic | Channel | Type | Link | Watched |
+|---|---|---|---|---|---|
+| 1 | YouTube Partner Program explained (official) | YouTube Creators | Video | https://www.youtube.com/watch?v=SAMPLE_ID_01 | ☐ |
+| 2 | Feb 2027 YPP threshold change (8,000 hours / 20M Shorts) | | Video | https://www.youtube.com/watch?v=SAMPLE_ID_02 | ☐ |
+| 3 | Qualified watch hours vs. Shorts views | | Video | https://www.youtube.com/watch?v=SAMPLE_ID_03 | ☐ |
+| 4 | How to apply for YPP in YouTube Studio | | Video | https://www.youtube.com/watch?v=SAMPLE_ID_04 | ☐ |
+| 5 | AdSense setup & payments in Pakistan | | Video | https://www.youtube.com/watch?v=SAMPLE_ID_05 | ☐ |
+| 6 | US tax info for non-US creators (AdSense) | | Video | https://www.youtube.com/watch?v=SAMPLE_ID_06 | ☐ |
+| 7 | Why automation channels get rejected (inauthentic content) | vidIQ | Video | https://www.youtube.com/watch?v=SAMPLE_ID_07 | ☐ |
+| 8 | Monetisation basics series (official) | YouTube Creators | Playlist | https://www.youtube.com/playlist?list=SAMPLE_PLAYLIST_ID_01 | ☐ |
+
+**Add a video:**
+```
+| 9 | Topic | Channel | Video | https://www.youtube.com/watch?v=VIDEO_ID | ☐ |
+```
+
+---
+
+## 📌 Official YouTube sources
+
+- [YouTube Partner Program overview & eligibility](https://support.google.com/youtube/answer/72851)
+- [Channel monetization policies (incl. inauthentic & reused content)](https://support.google.com/youtube/answer/1311392)
+- [Advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278)
+- [YouTube Blog: qualified watch hours and Shorts views (Aug 2026)](https://blog.youtube/news-and-events/youtube-monetization-qualified-watch-hours-shorts-views/)
+- [Community Guidelines strike basics](https://support.google.com/youtube/answer/2802032)
+- [YouTube Creators channel](https://www.youtube.com/@YouTubeCreators)
+
+> Policies change often. Check these pages before relying on any summary in this guide.

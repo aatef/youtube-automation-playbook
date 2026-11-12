@@ -58,3 +58,14 @@
 4. Make 3 test videos before committing.
 
 See [prompts/niche-research.md](../prompts/niche-research.md) for AI prompts that speed this up.
+
+---
+
+## 📌 Official YouTube sources
+
+- [Advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278)
+- [Channel monetization policies (incl. inauthentic & reused content)](https://support.google.com/youtube/answer/1311392)
+- [Made for kids: determine if your content is made for kids](https://support.google.com/youtube/answer/9528076)
+- [YouTube Creators site](https://www.youtube.com/creators/)
+
+> Policies change often. Check these pages before relying on any summary in this guide.

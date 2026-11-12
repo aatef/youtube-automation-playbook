@@ -62,3 +62,17 @@
 - [ ] AI disclosure set correctly
 - [ ] Description, chapters, tags, end screen, playlist
 - [ ] "Made for kids" set correctly
+
+---
+
+## 📌 Official YouTube sources
+
+- [Community Guidelines](https://support.google.com/youtube/answer/9288567)
+- [Community Guidelines strike basics](https://support.google.com/youtube/answer/2802032)
+- [Spam, deceptive practices & scams policies](https://support.google.com/youtube/answer/2801973)
+- [Fake engagement policy](https://support.google.com/youtube/answer/3399767)
+- [Channel monetization policies (incl. inauthentic & reused content)](https://support.google.com/youtube/answer/1311392)
+- [Made for kids: determine if your content is made for kids](https://support.google.com/youtube/answer/9528076)
+- [Advertiser-friendly content guidelines](https://support.google.com/youtube/answer/6162278)
+
+> Policies change often. Check these pages before relying on any summary in this guide.

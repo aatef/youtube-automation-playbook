@@ -34,3 +34,14 @@
 4. **Stack daily credits.** Rotate between tools with daily refills (Kling, Dreamina, Krea, PixVerse) to build a library of clips.
 
 See [prompts/video-generation.md](../prompts/video-generation.md) for prompts to use with these tools.
+
+---
+
+## 📌 Official YouTube sources
+
+- [Disclosing use of altered or synthetic content](https://support.google.com/youtube/answer/14328491)
+- [Channel monetization policies (incl. inauthentic & reused content)](https://support.google.com/youtube/answer/1311392)
+- [Understand copyright strikes](https://support.google.com/youtube/answer/2814000)
+- [YouTube Help Center](https://support.google.com/youtube/)
+
+> Policies change often. Check these pages before relying on any summary in this guide.

@@ -50,8 +50,15 @@ Fair use is a **legal defence decided case by case**, not a rule YouTube applies
 - Keep a **licence log** (asset → source → licence → date) for every video. It's your evidence if you're claimed.
 - Once you qualify, consider YouTube's **Copyright Match Tool** to find re-uploads of your videos.
 
-## Official sources
-- YouTube Help: Understand copyright strikes
-- YouTube Help: What is a Content ID claim? / Dispute a Content ID claim
-- YouTube Help: Fair use on YouTube
-- YouTube Copyright School
+---
+
+## 📌 Official YouTube sources
+
+- [Understand copyright strikes](https://support.google.com/youtube/answer/2814000)
+- [What is a Content ID claim?](https://support.google.com/youtube/answer/6013276)
+- [Dispute a Content ID claim](https://support.google.com/youtube/answer/2797454)
+- [Fair use on YouTube](https://support.google.com/youtube/answer/9783148)
+- [Copyright Match Tool](https://support.google.com/youtube/answer/7648743)
+- [YouTube Help Center](https://support.google.com/youtube/)
+
+> Policies change often. Check these pages before relying on any summary in this guide.
