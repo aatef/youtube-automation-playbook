@@ -23,6 +23,7 @@
 | ✅ [Dos and Don'ts](docs/dos-and-donts.md) | Strategy, policy and security rules + pre-upload checklist |
 | 🎯 [Popular Niches](docs/niches.md) | Niches with estimated RPM, niches to avoid, how to pick and validate |
 | 🎬 [Free Video Generators](docs/free-video-generators.md) | Free AI video tools, editors, and free-tier rules |
+| 🎓 [Free Courses](courses/free-courses.md) | Free YouTube courses (video or playlist links), with progress tracking |
 | 👤 [People to Follow](people/README.md) | One page per person with video links |
 | 📝 [Prompt Library](prompts/README.md) | Prompts for niche research, scripting, titles/thumbnails, video generation |
 
@@ -37,6 +38,8 @@ youtube-automation-playbook/
 │   ├── dos-and-donts.md
 │   ├── niches.md
 │   └── free-video-generators.md
+├── courses/
+│   └── free-courses.md
 ├── people/
 │   ├── README.md
 │   ├── ajju-bhai.md
@@ -105,7 +108,7 @@ One instructor, one path: **Danny Why** for both the free and the paid training.
 
 | Stage | Training | Notes |
 |---|---|---|
-| **Free** | Danny Why's free course / YouTube tutorials | Start here: niches, setup, AI tools, first uploads. |
+| **Free** | Danny Why's free course / YouTube tutorials. All free courses: [courses/free-courses.md](courses/free-courses.md) | Start here: niches, setup, AI tools, first uploads. |
 | **Paid** | Danny Why's paid course | Buy only after finishing the free material and publishing consistently. |
 
 > Before buying, check that the paid course covers YouTube's 2025–26 inauthentic-content rules.
