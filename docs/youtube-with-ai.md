@@ -12,27 +12,34 @@ You (idea) → Claude (research + script + scene plan) → Higgsfield MCP (image
 
 ---
 
-## 🎥 Video guides: Claude + Higgsfield
+## 🎥 Video guides
 
+Videos come from two channels: **[Danny Why](../people/danny-why.md)** and **[Beyond Tahir](../people/beyond-tahir.md)**.
+
+### Danny Why: Claude + Higgsfield ([@danny_why](https://www.youtube.com/@danny_why))
 | # | Video | Watched |
 |---|---|---|
-| 1 | [Build ANY Faceless YouTube Channel with Claude (Full Automation)](https://www.youtube.com/watch?v=EChXCPolIDQ), by Zinho Automates | ☐ |
-| 2 | [Create ANY Faceless YouTube Channel With Claude](https://www.youtube.com/watch?v=lI71zwGEtUM) | ☐ |
-| 3 | [Claude Code + YouTube = $62,000/Month (Full AI Tutorial)](https://www.youtube.com/watch?v=5LPDUk04J2Y) | ☐ |
-| 4 | [Higgsfield + Fable 5 Is A Cheatcode For Faceless Content](https://www.youtube.com/watch?v=0JxZ38LUBmA) | ☐ |
-| 5 | [I Built a Faceless YouTube Channel Using Claude Fable 5 + Higgsfield AI](https://www.youtube.com/watch?v=mp1gKJvxjKY) | ☐ |
-| 6 | [I Used Higgsfield AI + Claude Fable 5 to Build a $39,500/Month Faceless Channel](https://www.youtube.com/watch?v=wU_bmWb6bhg) | ☐ |
-| 7 | [Claude Code + YouTube = $$$](https://www.youtube.com/watch?v=qMHjI21xijc) | ☐ |
-| 8 | [How I Make Viral 2D Animation Videos with Claude Code](https://www.youtube.com/watch?v=NZ596meuUK8) | ☐ |
+| 1 | [Claude Literally Just Changed YouTube Forever](https://www.youtube.com/watch?v=WqXULg6uR30) | ☐ |
+| 2 | [How I Use Claude Code To Grow 10x Faster On YouTube](https://www.youtube.com/watch?v=ZpbUI8b8ZT4) | ☐ |
+| 3 | [Claude Fable 5 Just Changed YouTube Forever!](https://www.youtube.com/watch?v=qqhQ9QPL_CY) | ☐ |
+| 4 | [Claude Code + CapCut Just Changed YouTube Forever](https://www.youtube.com/watch?v=QKdR_wo9KZY) | ☐ |
+| 5 | [Claude Code Just Changed CapCut Forever!](https://www.youtube.com/watch?v=juMF6KUhOjY) | ☐ |
+| 6 | [Claude Code Just Changed Making Money Online!](https://www.youtube.com/watch?v=0ht45bzJ_7w) | ☐ |
+| 7 | [Claude Code Can Now Edit Your Videos in 10 Minutes](https://www.youtube.com/results?search_query=Danny+Why+Claude+Code+Can+Now+Edit+Your+Videos+in+10+Minutes) | ☐ |
+| 8 | [How I Use Claude Code to Create 2D Animations (Tutorial)](https://www.youtube.com/results?search_query=Danny+Why+How+I+Use+Claude+Code+to+Create+2D+Animations) | ☐ |
 
-### More from Danny Why (Claude Code)
-| # | Video | Watched |
+### Beyond Tahir: AI tools & Claude workflows ([@beyondtahir](https://www.youtube.com/@beyondtahir))
+| # | Video / resource | Watched |
 |---|---|---|
-| 1 | [Claude Code Can Now Edit Your Videos in 10 Minutes](https://www.youtube.com/results?search_query=Danny+Why+Claude+Code+Can+Now+Edit+Your+Videos+in+10+Minutes) | ☐ |
-| 2 | [How I Use Claude Code to Create 2D Animations (Tutorial)](https://www.youtube.com/results?search_query=Danny+Why+How+I+Use+Claude+Code+to+Create+2D+Animations) | ☐ |
-| 3 | [How I Use Claude Code To Grow 10x Faster On YouTube](https://www.youtube.com/results?search_query=Danny+Why+How+I+Use+Claude+Code+To+Grow+10x+Faster+On+Youtube) | ☐ |
+| 1 | [Beyond Tahir: Claude videos (channel search)](https://www.youtube.com/@beyondtahir/search?query=claude) | ☐ |
+| 2 | [Beyond Tahir Shorts: AI tips in English & Urdu](https://www.youtube.com/channel/UCTut5DNU-4GUJpylYid30kw) | ☐ |
+| 3 | [BeyondArtist: Claude Code plugin for thumbnails (Autopilot)](https://github.com/beyondtahir/beyondartist) | ☐ |
+| 4 | [Beyondsumi: animated storytelling videos with Claude Code, no video API](https://github.com/beyondtahir/beyondsumi) | ☐ |
 
-> Video earnings claims in titles are the creators' claims, not results you should expect.
+> Add Beyond Tahir's specific Claude/Higgsfield videos here as you find them:
+> `| 5 | [Video title](https://www.youtube.com/watch?v=VIDEO_ID) | ☐ |`
+
+> Earnings claims in video titles are the creators' claims, not results you should expect.
 
 ---
 
