@@ -15,7 +15,7 @@
 | ❓ | [Why YouTube Automation](docs/why-youtube-automation.md) | What it is, why it's worth doing, the honest caveats |
 | 👤 | [People to Follow](people/README.md) | Creators to learn from, one page each with channel & videos |
 | 🎓 | [Trainings](docs/trainings.md) | Recommended local paid courses, international path, skills to build |
-| 🎓 | [Free Courses](courses/free-courses.md) | Free YouTube courses (videos & playlists) |
+| 🎓 | [Courses: Free & Paid](courses/free-courses.md) | Free courses + recommended paid courses (Ajju Bhai, Safeer Shah, Saf Khattak, Junaid Manzoor) |
 | ✨ | [Inspirations](docs/inspirations.md) | Interviews & videos to get you started |
 | 💰 | [Monetization Criteria](docs/monetization.md) | YPP tiers, the **Feb 2027 threshold change**, Pakistan notes |
 | ©️ | [Copyright Guide](docs/copyright.md) | Claims vs. strikes, disputes, fair use, safe assets |
