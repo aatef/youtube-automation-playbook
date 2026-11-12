@@ -107,7 +107,7 @@ The cheapest complete setup, using only free tools:
 
 | Resource | What it's for | Free? |
 |---|---|---|
-| [Free Courses](../courses/free-courses.md) | Full YouTube courses (videos & playlists) | ![100% FREE](https://img.shields.io/badge/100%25-FREE-brightgreen) |
+| [Courses](../courses/README.md) | Full YouTube courses (videos & playlists) | ![100% FREE](https://img.shields.io/badge/100%25-FREE-brightgreen) |
 | [People to Follow](../people/README.md) | Channels & videos to learn from | ![100% FREE](https://img.shields.io/badge/100%25-FREE-brightgreen) |
 | [YouTube Creators](https://www.youtube.com/@YouTubeCreators) | Official tips & policy updates | ![100% FREE](https://img.shields.io/badge/100%25-FREE-brightgreen) |
 | [YouTube Help Center](https://support.google.com/youtube/) | Official policies & how-tos | ![100% FREE](https://img.shields.io/badge/100%25-FREE-brightgreen) |
