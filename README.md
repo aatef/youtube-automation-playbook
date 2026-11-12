@@ -35,6 +35,7 @@
 | ✅ [Dos and Don'ts](docs/dos-and-donts.md) | Strategy, policy and security rules + pre-upload checklist |
 | 🎯 [Popular Niches](docs/niches.md) | Niches with estimated RPM, niches to avoid, how to pick and validate |
 | 🎬 [Free Video Generators](docs/free-video-generators.md) | Free AI video tools, editors, and free-tier rules |
+| 🤖 [YouTube with AI](docs/youtube-with-ai.md) | Claude + Higgsfield video guides, plus MCP tools to plug into Claude |
 | 🆓 [Free Tools & Resources](docs/resources.md) | **$0 starter stack** + free tools for research, scripts, voice, video, editing, thumbnails, music |
 | 🎓 [Free Courses](courses/free-courses.md) | Free YouTube courses (video or playlist links), with progress tracking |
 | 👤 [People to Follow](people/README.md) | One page per person with video links |
@@ -53,7 +54,8 @@ youtube-automation-playbook/
 │   ├── dos-and-donts.md
 │   ├── niches.md
 │   ├── free-video-generators.md
-│   └── resources.md
+│   ├── resources.md
+│   └── youtube-with-ai.md
 ├── courses/
 │   └── free-courses.md
 ├── people/
