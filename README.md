@@ -60,6 +60,7 @@ youtube-automation-playbook/
 │   ├── README.md
 │   ├── ajju-bhai.md
 │   ├── beyond-tahir.md
+│   ├── mahar-sajid.md
 │   ├── saf-khan-khattak.md
 │   ├── shahzad-ahmad-mirza.md
 │   └── danny-why.md
@@ -112,6 +113,7 @@ A deliberately short list: fewer voices, less conflicting advice. Each person ha
 | **[Saf Khan Khattak](people/saf-khan-khattak.md)** | Pakistani YouTube automation creator known locally as "Doctor YouTube"; teaches automation from a Pakistan-based perspective. |
 | **[Shahzad Ahmad Mirza](people/shahzad-ahmad-mirza.md)** | Pakistani digital-skills and online-earning trainer; his podcast interviews (including one with Saf Khan Khattak) show how local creators actually run their channels. |
 | **[Beyond Tahir](people/beyond-tahir.md)** | Karachi-based AI educator (BeyondTahir AI Academy); AI automation, AI tools and YouTube automation, plus free GitHub tools for creators. |
+| **[Mahar Sajid](people/mahar-sajid.md)** | Pakistani YouTube automation expert (Mahar Sajid Afzal); faceless channels, algorithm, views, copyright and community-guidelines safety. |
 
 ### Later (once the channel is earning)
 | Who | Why follow |

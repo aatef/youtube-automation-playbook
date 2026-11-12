@@ -1,13 +1,12 @@
 # Beyond Tahir
 
-📺 **Channel:** [Beyond Tahir](https://www.youtube.com/@beyondtahir)
+📺 **Channel:** [Muhammad Tahir Ashraf (Beyond Tahir)](https://www.youtube.com/@beyondtahir)
 
 [← People to Follow](README.md) · [← Back to README](../README.md)
 
 | | |
 |---|---|
 | **Name** | Muhammad Tahir Ashraf (Beyond Tahir) |
-| **Stage** | Now (getting started) |
 | **Why follow** | Karachi-based AI educator and entrepreneur covering AI automation, AI tools and YouTube automation; runs the BeyondTahir AI Academy and builds free AI tools for YouTube creators. |
 
 ---
