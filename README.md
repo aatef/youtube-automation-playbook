@@ -23,6 +23,7 @@
 | ✅ [Dos and Don'ts](docs/dos-and-donts.md) | Strategy, policy and security rules + pre-upload checklist |
 | 🎯 [Popular Niches](docs/niches.md) | Niches with estimated RPM, niches to avoid, how to pick and validate |
 | 🎬 [Free Video Generators](docs/free-video-generators.md) | Free AI video tools, editors, and free-tier rules |
+| 👤 [People to Follow](people/README.md) | One page per person with video links |
 | 📝 [Prompt Library](prompts/README.md) | Prompts for niche research, scripting, titles/thumbnails, video generation |
 
 **Repo structure**
@@ -36,6 +37,12 @@ youtube-automation-playbook/
 │   ├── dos-and-donts.md
 │   ├── niches.md
 │   └── free-video-generators.md
+├── people/
+│   ├── README.md
+│   ├── ajju-bhai.md
+│   ├── saf-khan-khattak.md
+│   ├── shahzad-ahmad-mirza.md
+│   └── danny-why.md
 └── prompts/
     ├── README.md
     ├── niche-research.md
@@ -76,19 +83,19 @@ youtube-automation-playbook/
 
 ## People to Follow
 
-A deliberately short list: fewer voices, less conflicting advice.
+A deliberately short list: fewer voices, less conflicting advice. Each person has their own page with videos to watch. See [people/](people/README.md).
 
 ### Now (getting started)
 | Who | Why follow |
 |---|---|
-| **Ajju Bhai** | Primary day-to-day guide for getting started. |
-| **Saf Khan Khattak** | Pakistani YouTube automation creator known locally as "Doctor YouTube"; teaches automation from a Pakistan-based perspective. |
-| **Shahzad Ahmad Mirza** | Pakistani digital-skills and online-earning trainer; his podcast interviews (including one with Saf Khan Khattak) show how local creators actually run their channels. |
+| **[Ajju Bhai](people/ajju-bhai.md)** | Primary day-to-day guide for getting started. |
+| **[Saf Khan Khattak](people/saf-khan-khattak.md)** | Pakistani YouTube automation creator known locally as "Doctor YouTube"; teaches automation from a Pakistan-based perspective. |
+| **[Shahzad Ahmad Mirza](people/shahzad-ahmad-mirza.md)** | Pakistani digital-skills and online-earning trainer; his podcast interviews (including one with Saf Khan Khattak) show how local creators actually run their channels. |
 
 ### Later (once the channel is earning)
 | Who | Why follow |
 |---|---|
-| **Danny Why** | Tutorials and strategy on channel growth, monetisation, niche selection, AI tools and automation. Best value once there's revenue to optimise and scale. |
+| **[Danny Why](people/danny-why.md)** | Tutorials and strategy on channel growth, monetisation, niche selection, AI tools and automation. Best value once there's revenue to optimise and scale. |
 
 ---
 
