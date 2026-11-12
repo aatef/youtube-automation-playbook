@@ -2,7 +2,7 @@
 
 > A curated, opinionated guide to building faceless and systemised YouTube channels: who to learn from, why the model works, where to train, and which channels to study.
 
-![status](https://img.shields.io/badge/status-living%20document-blue) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen)
+![status](https://img.shields.io/badge/status-living%20document-blue) ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen) [![Start for FREE](https://img.shields.io/badge/START%20FOR-%240%20%E2%80%93%20FREE-brightgreen?style=for-the-badge)](docs/resources.md)
 
 ---
 
@@ -23,6 +23,7 @@
 | ✅ [Dos and Don'ts](docs/dos-and-donts.md) | Strategy, policy and security rules + pre-upload checklist |
 | 🎯 [Popular Niches](docs/niches.md) | Niches with estimated RPM, niches to avoid, how to pick and validate |
 | 🎬 [Free Video Generators](docs/free-video-generators.md) | Free AI video tools, editors, and free-tier rules |
+| 🆓 [Free Tools & Resources](docs/resources.md) | **$0 starter stack** + free tools for research, scripts, voice, video, editing, thumbnails, music |
 | 🎓 [Free Courses](courses/free-courses.md) | Free YouTube courses (video or playlist links), with progress tracking |
 | 👤 [People to Follow](people/README.md) | One page per person with video links |
 | 📝 [Prompt Library](prompts/README.md) | Prompts for niche research, scripting, titles/thumbnails, video generation |
@@ -37,7 +38,8 @@ youtube-automation-playbook/
 │   ├── ai-usage.md
 │   ├── dos-and-donts.md
 │   ├── niches.md
-│   └── free-video-generators.md
+│   ├── free-video-generators.md
+│   └── resources.md
 ├── courses/
 │   └── free-courses.md
 ├── people/

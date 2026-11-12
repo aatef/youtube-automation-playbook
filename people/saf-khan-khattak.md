@@ -1,35 +1,27 @@
 # Saf Khan Khattak
 
+📺 **Channel:** [Saf Automation](https://www.youtube.com/@SafAutomation)
+
 [← People to Follow](README.md) · [← Back to README](../README.md)
 
 | | |
 |---|---|
 | **Stage** | Now (getting started) |
-| **Why follow** | Pakistani YouTube automation creator known locally as "Doctor YouTube"; teaches automation from a Pakistan-based perspective. |
-| **Channel** | https://www.youtube.com/@CHANNEL_HANDLE |
+| **Why follow** | Pakistani YouTube automation trainer known as "Doctor YouTube"; runs Saf Automation, focused on faceless cash-cow channels, monetisation and earning in dollars from Pakistan. |
 
 ---
 
-## Videos to watch
+## Videos
 
-> ⚠️ The links below are **samples**. Replace `SAMPLE_ID_xx` with real video IDs and the titles with the real video titles.
-
-| # | Video | Link | Watched | Key takeaway |
-|---|---|---|---|---|
-| 1 | What is YouTube automation | https://www.youtube.com/watch?v=SAMPLE_ID_01 | ☐ | |
-| 2 | Niche research for automation channels | https://www.youtube.com/watch?v=SAMPLE_ID_02 | ☐ | |
-| 3 | Podcast with Shahzad Ahmad Mirza | https://www.youtube.com/watch?v=SAMPLE_ID_03 | ☐ | |
-| 4 | Monetization from Pakistan (AdSense & payments) | https://www.youtube.com/watch?v=SAMPLE_ID_04 | ☐ | |
-| 5 | Scaling to multiple channels | https://www.youtube.com/watch?v=SAMPLE_ID_05 | ☐ | |
+| # | Title | Watched |
+|---|---|---|
+| 1 | [FREE YouTube Automation Course: \$1k in 90 Days (Part 2)](https://www.youtube.com/watch?v=bqlvX36EDks) | ☐ |
+| 2 | [Earn \$500,000 in One Year with YouTube Automation (podcast with Shahzad Ahmad Mirza)](https://www.youtube.com/watch?v=2cV_DjaPCBU) | ☐ |
+| 3 | [FREE YouTube Automation Course: Part 1](https://www.youtube.com/results?search_query=Saf+Khan+Khattak+FREE+YouTube+Automation+Course+Part+1) | ☐ |
+| 4 | [Free YouTube Automation Course (full playlist)](https://www.youtube.com/results?search_query=Saf+Automation+free+YouTube+automation+course+playlist) | ☐ |
 
 ---
 
 ## Notes
 
 - 
-
-## How to add a video
-Copy a row and update the number, title and link:
-```
-| 6 | Video title | https://www.youtube.com/watch?v=VIDEO_ID | ☐ | |
-```
