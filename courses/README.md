@@ -38,6 +38,8 @@
 | 2 | FREE YouTube Automation Course: $1k in 90 Days (Part 2) | [Saf Khan Khattak](../people/saf-khan-khattak.md) | Video | [▶️ Watch](https://www.youtube.com/watch?v=bqlvX36EDks) | ☐ |
 | 3 | Free Masterclass: YouTube Automation | [Safeer Shah](../people/safeer-shah.md) | Website | [🌐 safeershah.com](https://safeershah.com/) | ☐ |
 | 4 | Faceless YouTube in 2026: AI tools, niches & algorithm | [Danny Why](../people/danny-why.md) | Video | [▶️ Watch](https://www.youtube.com/watch?v=IoJQOH6ADFw) | ☐ |
+| 5 | COMPLETE YouTube Automation Course For Beginners (2025, ~2h 40m) | [Saad Rashid](../people/saad-rashid.md) | Video | [▶️ Watch](https://www.youtube.com/watch?v=6zn5j1TBBws) | ☐ |
+| 6 | Free Training: Roadmap to YouTube automation | [Saad Rashid](../people/saad-rashid.md) | Website | [🌐 saadrashid.net](https://www.saadrashid.net/free-training) | ☐ |
 
 **Status values:** ☐ Not started · ◐ In progress · ☑ Completed
 
@@ -58,6 +60,6 @@
 
 ## ➕ Add a course
 ```
-| 5 | Course name | Instructor | Video | [▶️ Watch](https://www.youtube.com/watch?v=VIDEO_ID) | ☐ |
+| 7 | Course name | Instructor | Video | [▶️ Watch](https://www.youtube.com/watch?v=VIDEO_ID) | ☐ |
 ```
 For a playlist use `https://www.youtube.com/playlist?list=PLAYLIST_ID`.
