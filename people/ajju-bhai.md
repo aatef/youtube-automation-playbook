@@ -4,6 +4,8 @@
 
 [← People to Follow](README.md) · [← Back to README](../README.md)
 
+> ⭐ **Recommended paid course #1 (local):** my first choice among local (Pakistani) paid courses.
+
 | | |
 |---|---|
 | **Why follow** | YouTube automation trainer and troubleshooter from Rahim Yar Khan; covers automation strategy, fast monetisation, tools and real case studies. |

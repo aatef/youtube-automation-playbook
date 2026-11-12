@@ -61,6 +61,8 @@ youtube-automation-playbook/
 │   ├── ajju-bhai.md
 │   ├── beyond-tahir.md
 │   ├── mahar-sajid.md
+│   ├── moq.md
+│   ├── safeer-shah.md
 │   ├── saf-khan-khattak.md
 │   ├── shahzad-ahmad-mirza.md
 │   └── danny-why.md
@@ -109,7 +111,9 @@ A deliberately short list: fewer voices, less conflicting advice. Each person ha
 ### Now (getting started)
 | Who | Why follow |
 |---|---|
-| **[Ajju Bhai](people/ajju-bhai.md)** | Primary day-to-day guide for getting started. |
+| **[Ajju Bhai](people/ajju-bhai.md)** ⭐ | Primary day-to-day guide for getting started. **Recommended local paid course #1.** |
+| **[Safeer Shah](people/safeer-shah.md)** ⭐ | Pakistani YouTube automation trainer (YouTube Automation Mastery); AI tools for scripts, editing, thumbnails, SEO and niche research. **Recommended local paid course #2.** |
+| **[MOQ (Owais Qurni)](people/moq.md)** | Pakistani YouTube automation & online-business channel; free automation playlist and community. |
 | **[Saf Khan Khattak](people/saf-khan-khattak.md)** | Pakistani YouTube automation creator known locally as "Doctor YouTube"; teaches automation from a Pakistan-based perspective. |
 | **[Shahzad Ahmad Mirza](people/shahzad-ahmad-mirza.md)** | Pakistani digital-skills and online-earning trainer; his podcast interviews (including one with Saf Khan Khattak) show how local creators actually run their channels. |
 | **[Beyond Tahir](people/beyond-tahir.md)** | Karachi-based AI educator (BeyondTahir AI Academy); AI automation, AI tools and YouTube automation, plus free GitHub tools for creators. |
@@ -124,8 +128,13 @@ A deliberately short list: fewer voices, less conflicting advice. Each person ha
 
 ## Trainings
 
-One instructor, one path: **Danny Why** for both the free and the paid training.
+### 🇵🇰 Local (Pakistan): recommended paid courses
+| Rank | Instructor | Why |
+|---|---|---|
+| ⭐ **1** | **[Ajju Bhai](people/ajju-bhai.md)** | My first choice among local paid courses |
+| ⭐ **2** | **[Safeer Shah](people/safeer-shah.md)** | YouTube Automation Mastery: AI tools, editing, thumbnails, SEO |
 
+### 🌍 International: Danny Why
 | Stage | Training | Notes |
 |---|---|---|
 | **Free** | Danny Why's free course / YouTube tutorials. All free courses: [courses/free-courses.md](courses/free-courses.md) | Start here: niches, setup, AI tools, first uploads. |
