@@ -8,7 +8,10 @@
 
 | | |
 |---|---|
-| **Why follow** | YouTube automation trainer and troubleshooter from Rahim Yar Khan; covers automation strategy, fast monetisation, tools and real case studies. |
+| **Why follow** | Over the last year I've become a big fan of Ajju Bhai. I've never met him, but I've met many of his successful students, and that's the only reason I recommend him. I've seen his students go from penniless to $10k USD per month and beyond. |
+
+
+> 💬 **Why I follow Ajju Bhai:** Over the last year I've become a big fan of Ajju Bhai. I've never met him, but I've met many of his successful students, and that's the only reason I recommend him. I've seen his students go from penniless to $10k USD per month and beyond.
 
 ---
 

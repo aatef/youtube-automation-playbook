@@ -7,7 +7,10 @@
 | | |
 |---|---|
 | **Name** | Muhammad Tahir Ashraf (Beyond Tahir) |
-| **Why follow** | Karachi-based AI educator and entrepreneur covering AI automation, AI tools and YouTube automation; runs the BeyondTahir AI Academy and builds free AI tools for YouTube creators. |
+| **Why follow** | Talks about tech and market dynamics in depth, and gives hands-on AI and automation advice. Like me, he's a fan of Claude, ChatGPT and Higgsfield. |
+
+
+> 💬 **Why I follow Beyond Tahir:** Talks about tech and market dynamics in depth, and gives hands-on AI and automation advice. Like me, he's a fan of Claude, ChatGPT and Higgsfield.
 
 ---
 

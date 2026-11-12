@@ -10,7 +10,10 @@
 |---|---|
 | **Name** | Syed Ahmed Safeer Shah |
 | **Stage** | Now (getting started) |
-| **Why follow** | Pakistani YouTube automation trainer and editing-agency owner; teaches AI tools for scripts, editing, thumbnails, YouTube SEO, title research and niche analysis. |
+| **Why follow** | Focuses on niche research, and provides playbooks and prompts for each video niche, showing how to make each kind of niche content. |
+
+
+> 💬 **Why I follow Safeer Shah:** Focuses on niche research, and provides playbooks and prompts for each video niche, showing how to make each kind of niche content.
 
 ---
 

@@ -7,7 +7,10 @@
 | | |
 |---|---|
 | **Stage** | Later (once the channel is earning) |
-| **Why follow** | US-based creator teaching faceless YouTube with AI: niches, algorithm, monetisation, and AI tools such as Claude Code for editing and animation. Also our training path: free videos, then the paid Faceless Profits community. |
+| **Why follow** | Opens a new door with every video. His free YouTube videos are enough for anyone to start this business. I'm always amazed by what he must be providing in his community for $39/month. |
+
+
+> 💬 **Why I follow Danny Why:** Opens a new door with every video. His free YouTube videos are enough for anyone to start this business. I'm always amazed by what he must be providing in his community for $39/month.
 
 ---
 
@@ -19,7 +22,7 @@
 | 2 | [Claude Code just LEAKED YouTube's Algorithm!](https://www.youtube.com/results?search_query=Danny+Why+Claude+Code+just+LEAKED+YouTube%27s+Algorithm) | ☐ |
 | 3 | [This Hidden AI YouTube Channel Made \$100,000 in 3 Months](https://www.youtube.com/results?search_query=Danny+Why+This+Hidden+AI+YouTube+Channel+Made+%24100%2C000+in+3+Months) | ☐ |
 | 4 | [This Will Get Your Channel Monetized 10x Faster](https://www.youtube.com/results?search_query=Danny+Why+This+Will+Get+Your+Channel+Monetized+10x+Faster) | ☐ |
-| 5 | [How I Use Claude Code To Grow 10x Faster On YouTube](https://www.youtube.com/results?search_query=Danny+Why+How+I+Use+Claude+Code+To+Grow+10x+Faster+On+Youtube) | ☐ |
+| 5 | [How I Use Claude Code To Grow 10x Faster On YouTube](https://www.youtube.com/watch?v=ZpbUI8b8ZT4) | ☐ |
 | 6 | [Why Your Views STOP After 24 Hours (learn how to fix it)](https://www.youtube.com/results?search_query=Danny+Why+Why+Your+Views+STOP+After+24+Hours) | ☐ |
 | 7 | [YouTube is BANNING Faceless AI YouTube Channels?](https://www.youtube.com/results?search_query=Danny+Why+YouTube+is+BANNING+Faceless+AI+YouTube+Channels) | ☐ |
 | 8 | [Claude Code Can Now Edit Your Videos in 10 Minutes](https://www.youtube.com/results?search_query=Danny+Why+Claude+Code+Can+Now+Edit+Your+Videos+in+10+Minutes) | ☐ |

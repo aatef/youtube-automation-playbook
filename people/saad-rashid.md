@@ -7,7 +7,10 @@
 | | |
 |---|---|
 | **Stage** | Now (getting started) |
-| **Why follow** | Pakistani YouTube automation expert focused on faceless channels for Tier-1 (USA/UK) audiences; known for long, free beginner courses covering niche research, keywords, scripts, AI voice, editing, thumbnails, SEO and Shorts. |
+| **Why follow** | Interviews the rising stars of YouTube automation. He makes a real effort to bring on the right people, asks the right questions, and does everything he can to inspire people to start this business. |
+
+
+> 💬 **Why I follow Saad Rashid:** Interviews the rising stars of YouTube automation. He makes a real effort to bring on the right people, asks the right questions, and does everything he can to inspire people to start this business.
 
 ---
 
