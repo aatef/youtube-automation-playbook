@@ -1,6 +1,6 @@
 # Danny Why
 
-📺 **Channel:** [Danny Why](https://www.youtube.com/@dannywhy)
+📺 **Channel:** [Danny Why](https://www.youtube.com/@danny_why)
 
 [← People to Follow](README.md) · [← Back to README](../README.md)
 
