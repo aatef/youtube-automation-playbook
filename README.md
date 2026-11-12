@@ -159,21 +159,11 @@ A deliberately short list: fewer voices, less conflicting advice. Each person ha
 
 ## Inspirations
 
-Faceless or team-run channels worth studying for format, packaging and consistency. They show what *value-adding* faceless content looks like.
-
-| Channel | Format | What to learn |
-|---|---|---|
-| **Kurzgesagt – In a Nutshell** | Animated science explainers | Very high production value; a team-run studio model. |
-| **The Infographics Show** | Animated stories and explainers | High-volume output from a team. |
-| **Business Casual** | Animated business history | Strong research and a consistent visual identity. |
-| **Logically Answered** | Why companies succeed or fail | Simple visuals carried by sharp storytelling. |
-| **Magnates Media** | Business documentaries | Narrative pacing and cinematic B-roll. |
-| **Wendover Productions** | Logistics and systems explainers | Deep research presented clearly. |
-| **Kings and Generals** | Animated military history | A niche audience and long-form retention. |
-| **Scary Pumpkin** | Animated horror stories | Story-template formats that scale. |
-
-### Study method
-For each channel, log in a sheet: **top 10 outlier videos → title pattern → thumbnail pattern → hook (first 30 s) → video length → upload cadence**. Then adapt the *mechanics*, never the content.
+| # | Who | Watch | Type |
+|---|---|---|---|
+| 1 | [Ajju Bhai](people/ajju-bhai.md) | ▶️ [Unlock YouTube Automation Secrets: Learn with Ajju Bhai!](https://www.youtube.com/watch?v=SeCJmkpahLA) | Interview |
+| 2 | [MOQ (Owais Qurni)](people/moq.md) | ▶️ [BIGGEST Youtube Automation Secrets REVEALED](https://www.youtube.com/watch?v=m8VOFwkUoOI) | Video |
+| 3 | [Safeer Shah](people/safeer-shah.md) | ▶️ [Safeer Shah channel](https://www.youtube.com/@Safeer_Shah) | Channel |
 
 ---
 
