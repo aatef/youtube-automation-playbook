@@ -7,12 +7,13 @@
 ## ⭐ My choices
 
 ### 🇵🇰 Local (Pakistan): recommended paid courses
-> I recommend **only these two** local courses, because I've seen their outcomes in person.
+> I recommend **only these three** locally, because I've seen their students' outcomes in person.
 
 | Rank | Instructor | Why |
 |---|---|---|
 | ⭐ **1** | **[Ajju Bhai](../people/ajju-bhai.md)** | My first choice. I've met many of his students in person, from penniless to $10k+/month |
-| ⭐ **2** | **[Safeer Shah](../people/safeer-shah.md)** | Niche research, with playbooks & prompts per niche. I've seen the outcome in person |
+| ⭐ **2** | **[Shahzad Ahmad Mirza](../people/shahzad-ahmad-mirza.md)** | Many lucrative trainings and many student success stories. I've sat with a handful of his students |
+| ⭐ **3** | **[Safeer Shah](../people/safeer-shah.md)** | Niche research, with playbooks & prompts per niche. I've seen the outcome in person |
 
 ### 🌍 International: Danny Why
 > I've recommended Danny Why to a few people, and all of them are now above **$10k USD per month**.
@@ -26,9 +27,10 @@
 | # | Course | Instructor | Link | Notes |
 |---|---|---|---|---|
 | ⭐ 1 | YouTube Automation course | [Ajju Bhai](../people/ajju-bhai.md) | [📺 Channel](https://www.youtube.com/@AjjuBhaiAutomation) · [💬 Facebook](https://www.facebook.com/Ajubhaifx/) | **Recommended #1.** Contact him through his channel or Facebook page to enroll |
-| ⭐ 2 | YouTube Automation Mastery (recorded & live) | [Safeer Shah](../people/safeer-shah.md) | [🛒 Enroll](https://safeershah.com/contact/) | **Recommended #2.** Recorded course or live online training |
-| 3 | YouTube Automation Course (40+ hours, 130+ videos) | [Saf Khan Khattak](../people/saf-khan-khattak.md) | [🛒 Course page](https://safautomation.com/pages/youtube-automation-course) | Pre-recorded; Pakistan-focused |
-| 4 | YouTube 18 Days Formula | Junaid Manzoor | [🛒 junaidyt.com](https://junaidyt.com/) | Channel growth course (shorts, long-form & automation); conditional refund policy |
+| ⭐ 2 | Online earning & digital-skills trainings | [Shahzad Ahmad Mirza](../people/shahzad-ahmad-mirza.md) | [📺 Channel](https://www.youtube.com/channel/UCqDgg_vvXmaBEORzvhgiGJQ) | **Recommended #2.** Contact through his channel for current trainings |
+| ⭐ 3 | YouTube Automation Mastery (recorded & live) | [Safeer Shah](../people/safeer-shah.md) | [🛒 Enroll](https://safeershah.com/contact/) | **Recommended #3.** Recorded course or live online training |
+| 4 | YouTube Automation Course (40+ hours, 130+ videos) | [Saf Khan Khattak](../people/saf-khan-khattak.md) | [🛒 Course page](https://safautomation.com/pages/youtube-automation-course) | Pre-recorded; Pakistan-focused |
+| 5 | YouTube 18 Days Formula | Junaid Manzoor | [🛒 junaidyt.com](https://junaidyt.com/) | Channel growth course (shorts, long-form & automation); conditional refund policy |
 
 > 💡 Buy only from the instructor's **official** website or channel. Avoid "free download" sites that resell paid courses. Check the current price, and that the course covers YouTube's 2025–26 inauthentic-content rules, before paying.
 

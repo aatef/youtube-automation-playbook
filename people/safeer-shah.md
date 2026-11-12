@@ -4,7 +4,7 @@
 
 [← People to Follow](README.md) · [← Back to README](../README.md)
 
-> ⭐ **Recommended paid course #2 (local):** after Ajju Bhai's, this is the second local paid course I recommend.
+> ⭐ **Recommended paid course #3 (local):** my third local recommendation, after Ajju Bhai and Shahzad Ahmad Mirza.
 
 | | |
 |---|---|

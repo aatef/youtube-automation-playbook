@@ -4,10 +4,15 @@
 
 [← People to Follow](README.md) · [← Back to README](../README.md)
 
+> ⭐ **Recommended #2 (local):** my second recommendation, after Ajju Bhai.
+
 | | |
 |---|---|
 | **Stage** | Now (getting started) |
-| **Why follow** | Web programmer, designer, internet marketer and trainer; his podcasts interview Pakistani creators about how they actually earn online. |
+| **Why follow** | Offers many other lucrative trainings, and his students' success stories are many. I recently got to sit with a handful of his students. He is my second recommendation, after Ajju Bhai and before Safeer Shah. |
+
+
+> 💬 **Why I follow Shahzad Ahmad Mirza:** Offers many other lucrative trainings, and his students' success stories are many. I recently got to sit with a handful of his students. He is my second recommendation, after Ajju Bhai and before Safeer Shah.
 
 ---
 
