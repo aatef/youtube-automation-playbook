@@ -167,10 +167,6 @@ A deliberately short list: fewer voices, less conflicting advice. Each person ha
 
 ---
 
-## Contributing
-
-Spotted a dead link, an outdated policy note or a creator worth adding? Open an issue or PR. Every addition should include **why** it's worth following or studying.
-
 ## Disclaimer
 
 This guide is for education only. Earnings vary widely, and YouTube policies change. Always check the current YouTube Partner Program policies before monetising.
