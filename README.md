@@ -10,9 +10,9 @@
 
 | # | Video | Type | By |
 |---|---|---|---|
-| 1 | ▶️ **[Unlock YouTube Automation Secrets: Learn with Ajju Bhai!](https://www.youtube.com/watch?v=SeCJmkpahLA&t=280s)** | Interview | [Ajju Bhai](people/ajju-bhai.md) |
+| 1 | ▶️ **[What is Chota Channel?](https://www.youtube.com/watch?v=SeCJmkpahLA&t=300s)** | Interview | [Ajju Bhai](people/ajju-bhai.md) |
 
-[![Unlock YouTube Automation Secrets: Learn with Ajju Bhai!](https://img.youtube.com/vi/SeCJmkpahLA/hqdefault.jpg)](https://www.youtube.com/watch?v=SeCJmkpahLA&t=280s)
+[![What is Chota Channel?](https://img.youtube.com/vi/SeCJmkpahLA/hqdefault.jpg)](https://www.youtube.com/watch?v=SeCJmkpahLA&t=300s)
 
 ---
 
